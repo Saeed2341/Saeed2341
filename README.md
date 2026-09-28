@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there, I'm Saeed 👋
+Backend-focused Full-Stack Developer.
 
-<!--
-**Saeed2341/Saeed2341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I build REST APIs, e-commerce platforms and booking systems
+🌱 Currently learning: Socket io & Typescript
+💬 Ask me about: Node.js, Express, React, Next.js
+📫 Reach me: saeedsadabadi2056@gmail.com
+⚡ Tech Stack
+HTML5CSS3JavaScriptReactNext.jsNode.jsExpress
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+Saeed's GitHub statsTop Languages
